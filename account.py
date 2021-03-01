@@ -1,8 +1,8 @@
 
 class Account():
     def __init__(self):
-        self.username="hydro_gorgo"
-        self.password="Gorgo0330"
+        self.username="useryouremail/usernamehere"
+        self.password="password here"
     
     def setPassword(self, password):
         self.password = password
